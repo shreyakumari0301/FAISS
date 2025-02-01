@@ -29,7 +29,7 @@ pip install faiss-cpu numpy pandas matplotlib scikit-learn torch torchvision
 4. Run the notebooks to perform similarity searches.
 
 ## Contact
-
----
+**Author: Shreya Kumari Email: 23f2003785@ds.study.iitm.ac.in GitHub: shreyakumari0301
+**---
 ### License
 This project is open-source and available under the [MIT License](LICENSE).
